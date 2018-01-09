@@ -1,3 +1,2 @@
 language: java
 
-System.out.println("Ciao Github, sono Giuseppe");
